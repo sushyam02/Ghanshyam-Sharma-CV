@@ -68,7 +68,7 @@ ________________________________________🏆 Achievements
 	Delivered bug-free releases for mission-critical systems (Nokia/Oracle).
 ________________________________________
 🌐 Additional Info
-	GitHub Portfolio: https://github.com/sushyam02 
+	GitHub Portfolio: [https://github.com/sushyam02](https://github.com/sushyam02/Ghanshyam-Sharma-CV) 
 	Building real-time QA automation suite using ChatGPT + Selenium.
 	Open to full-time remote or hybrid QA Automation roles; committed to long-term opportunities.
 	Available to join immediately.
